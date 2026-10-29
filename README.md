@@ -56,3 +56,4 @@ cmake ..
 make -j$(nproc)
 ./izmir_gis_compiler
 ./izmir_sim_phase4
+performansı nasıl arttırabilirim
