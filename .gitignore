@@ -1,0 +1,14 @@
+# Derleme ve Sanal Ortam
+build/
+.venv/
+*.o
+*.out
+izmir_sim_phase4
+izmir_gis_compiler
+phase1_verify
+
+# Buyuk CBS / Uydu Onbellek Dosyalari (GitHub 100MB sinirina takilmamasi icin)
+data/overture/*.geojsonseq
+data/raw_osm/*.json
+data/raw_osm/*.png
+data/compiled/*.izmb
